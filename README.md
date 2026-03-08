@@ -1,9 +1,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=80&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;Power+BI+%7C+Tableau+%7C+SQL+%7C+Python;ETL+Pipelines+%7C+REST+APIs+%7C+A%2FB+Testing;KPI+Development+%7C+Analytics+%7C+Dashboards;IT+Support+Specialist;Public+Health+Advocate;Digital+Marketing" alt="Typing SVG" />
   
-## 🛠 Stacks
-
-
 ## 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,7 +36,6 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![KPI Development](https://img.shields.io/badge/KPI_Development-1E88E5?style=for-the-badge)
 
 ---
 
