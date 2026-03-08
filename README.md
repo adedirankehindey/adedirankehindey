@@ -1,20 +1,3 @@
-<h1 align="center">Hi 👋, I'm Adediran Kehinde</h1>
-<h3 align="center">Business Intelligence Analyst | Marketing Data Analyst | Data Visualization Specialist</h3>
-
-<p align="center">
-I transform complex datasets into business insights that drive acquisition, retention, and revenue growth.
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 📊 Senior Business Intelligence Analyst with experience in marketing analytics and performance reporting  
-- 📈 Specialized in KPI monitoring, attribution analysis, and data storytelling  
-- 🔍 Experienced in working with large-scale marketing datasets and customer acquisition metrics  
-- 🌍 Based in Malta | Open to global analytics collaboration  
-
----
 
 ### 🚀 Tech Stack
 
@@ -30,81 +13,75 @@ I transform complex datasets into business insights that drive acquisition, rete
 </p>
 
 ---
+# Ajibola Odutola
 
-### 📊 GitHub Statistics
+Senior Business Intelligence Analyst | Marketing Data Analyst | Data Strategist
 
-<p align="center">
+I specialize in transforming complex datasets into actionable business intelligence. My work focuses on marketing analytics, performance monitoring, and decision intelligence across digital platforms. I build data pipelines, automated dashboards, and analytical frameworks that support revenue growth, customer acquisition, and operational efficiency.
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajibolaodutola&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajibolaodutola&theme=tokyonight"/>
-
-</p>
+Primary domains include iGaming analytics, digital marketing intelligence, and business performance analytics. My toolset spans SQL, Python, Power BI, Tableau, and modern cloud data infrastructure.
 
 ---
 
-### 📈 Most Used Languages
+## Technical Skills Matrix
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajibolaodutola&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-### 📂 Featured Projects
-
-#### 📊 Marketing Performance Dashboard
-Power BI dashboard analyzing acquisition funnels, conversion rates, and campaign ROI.
-
-Key features
-- KPI tracking  
-- conversion funnel analysis  
-- acquisition channel comparison  
+| Languages | Frontend | Backend | Frameworks | Databases | DevOps | Others |
+|-----------|----------|----------|-------------|------------|---------|---------|
+| Python | HTML5 | Node.js | React | MySQL | Docker | Power BI |
+| SQL | CSS3 | Express.js | Next.js | PostgreSQL | Kubernetes | Tableau |
+| R | JavaScript | Django | Flask | SQL Server | GitHub Actions | Data Visualization |
+| Bash | TypeScript | FastAPI | Bootstrap | BigQuery | Jenkins | Data Analytics |
+| Julia | React | Spring Boot | Tailwind CSS | Snowflake | Terraform | Marketing Analytics |
+| Scala | Vue.js | .NET Core | Angular | MongoDB | AWS CodePipeline | KPI Development |
+| Go | Svelte | GraphQL | Laravel | Redis | Azure DevOps | A/B Testing |
+| Rust | Bootstrap | REST APIs | Symfony | Oracle | CI/CD Pipelines | Business Intelligence |
+| MATLAB | Webpack | Microservices | TensorFlow | Amazon Redshift | Infrastructure as Code | Data Engineering |
+| C++ | D3.js | Serverless Functions | PyTorch | MariaDB | Cloud Deployment | ETL Pipelines |
 
 ---
 
-#### 📉 Customer Behaviour Analytics
-Python project analyzing customer lifecycle behaviour and retention patterns.
+## Core Competencies
 
-Techniques used
-- cohort analysis  
-- segmentation  
-- churn prediction  
-
----
-
-#### 📊 Tableau Sales Intelligence Dashboard
-Interactive visualization project analyzing regional sales performance.
-
-Insights generated
-- regional revenue distribution  
-- product performance comparison  
-- trend analysis  
+Data Analytics  
+Business Intelligence Development  
+Marketing Performance Analytics  
+KPI Framework Design  
+Data Pipeline Development  
+Dashboard Automation  
+Statistical Analysis  
+Customer Acquisition Analytics  
+Revenue Optimization Analytics  
+Data Storytelling
 
 ---
 
-### 📚 Currently Learning
+## Tools and Platforms
 
-- Advanced Marketing Attribution Models  
-- Cloud Data Warehousing  
-- Machine Learning for Marketing Analytics  
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/ajibolaodutola">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
+Power BI  
+Tableau  
+Google Analytics  
+Google Tag Manager  
+BigQuery  
+Databricks  
+Excel Advanced Analytics  
+Python Data Stack  
+SQL Server Management Studio  
+Cloud Data Platforms
 
 ---
 
-<p align="center">
-⭐ If you like data analytics, dashboards, and business intelligence projects, follow my repositories.
-</p>
+## Current Focus
+
+Developing automated marketing performance dashboards.  
+Building scalable analytics infrastructure for acquisition intelligence.  
+Applying machine learning techniques to customer behaviour analysis.
+
+---
+
+## Connect
+
+LinkedIn  
+https://www.linkedin.com/in/ajibolaodutola/
+
+GitHub  
+https://github.com/ajibolaodutola
