@@ -1,20 +1,5 @@
-### 🚀Technologies Stack
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/SQL-Data%20Querying-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-Data%20Visualization-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tableau-Dashboarding-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-Data%20Analysis-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Excel-Advanced%20Analytics-darkgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google%20Analytics-Marketing%20Insights-purple?style=for-the-badge"/>
-
-</p>
----
-
-
-
-## 🛠 Technology Stack
+## 🛠Tech Stack
 
 <div align="center">
 
@@ -32,6 +17,8 @@
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://img.shields.io/badge/SQL-Data%20Querying-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-green?style=for-the-badge"/>
 
 <br>
 
@@ -40,6 +27,8 @@
 ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-6A1B9A?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://img.shields.io/badge/Excel-Advanced%20Analytics-darkgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Analytics-Marketing%20Insights-purple?style=for-the-badge"/>
 
 <br>
 
@@ -48,6 +37,8 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-0A66C2?style=for-the-badge)
 ![KPI Development](https://img.shields.io/badge/KPI_Development-1E88E5?style=for-the-badge)
+<img src="https://img.shields.io/badge/PowerBI-Data%20Visualization-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tableau-Dashboarding-orange?style=for-the-badge"/>
 
 <br>
 
@@ -88,7 +79,6 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
 
 
 </div>
