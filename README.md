@@ -3,9 +3,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=80&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;Business+Intelligence+Developer;Power+BI+%7C+Tableau+%7C+SQL+%7C+Python;ETL+Pipelines+%7C+REST+APIs+%7C+A%2FB+Testing;KPI+Development+%7C+Analytics+%7C+Dashboards" alt="Typing SVG" />
 
 
-## 🛠 Adediran Kehinde's Stack
+## 🛠 Stacks
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=80&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;IT+Support+Specialist;Public+Health+Advocate;Digital+Marketing;Programming+Languages:+%7C+PHP+%7C+Python+%7C+SQL+%7C+Bash+%7C+JavaScript+%7C+TypeScript;Data+Science&+Analytics:+%7C+PyTorch+%7C+ETL Pipelines+%7C+REST APIs+%7C+Excel+%7C+A/B Testing;Frontend+Technologies:+%7C+HTML+%7C+CSS+%7C+Bootstrap;Business+Intelligence+&+Data+Visualization:+%7C+Power+BI+%7C+Tableau;Databases:+%7C+MySQL+%7C+PostgreSQL+%7C+MongoDB;Marketing+Analytics+and+Data+Tracking:+%7C+Google+Analytics+4+%7C+Google+Tag+Manager+%7C+Looker+Studio+%7C+Marketing+Attribution+%7C+Customer+LTV;Experimentation+Optimization:+%7C+A/B Testing+%7C+Conversion+Rate+Optimization+%7C+Growth+Analytics+%7C+Marketing+Mix+Modeling;Paid+Advertising+Acquisition+Channels:+%7C+Google+Ads+%7C+Meta+Ads+%7C+LinkedIn+Ads+%7C+Programmatic+Ads;SEO+Organic+Growth:+%7C+SEO+%7C+Google+Search+Console+%7C+SEMrush+%7C+Ahrefs;CRM+Marketing+Automation:+%7C+HubSpot+%7C+Mailchimp+%7C+CRM+and+Lead+Generation;Developer+Tools+and+Platforms:+%7C+Git+%7C+GitHub+%7C+Terminal+%7C+Docker+%7C+cPanel+%7C+Apache+%7C+Nginx+%7C+NPM" alt="Typing SVG" />
+
 
 ## 💻 Programming Languages
 
@@ -26,6 +27,15 @@
 ![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-6A1B9A?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Advanced%20Analytics-darkgreen?style=for-the-badge)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
+---
+
+## 🌐 Frontend Technologies
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -34,6 +44,14 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![KPI Development](https://img.shields.io/badge/KPI_Development-1E88E5?style=for-the-badge)
+
+---
+
+## 🗄 Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -83,22 +101,6 @@
 
 ---
 
-## 🌐 Frontend Technologies
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
-
-## 🗄 Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
 ## ⚙️ Developer Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -108,7 +110,6 @@
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
