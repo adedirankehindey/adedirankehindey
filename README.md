@@ -40,15 +40,42 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=100&color=36BCF7&width=700&lines=C%2B%2B;Python;PHP;JavaScript;TypeScript;HTML;CSS;Sass;Bootstrap;CSS;jQuery;MySQL;PostgreSQL;MongoDB;Git;GitHub;Docker" alt="Typing SVG" />
 </p>
 
+## 🛠 Technology Stack
+
+### 💻 Programming Languages
+<p align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=100&color=36BCF7&width=750&lines=Python;R;SQL;Bash;JavaScript;TypeScript;Java;PHP;C%2B%2B" />
+</p>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-### 🎨 Frontend Technologies
+### 📊 Data Science, Analytics & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-6A1B9A?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+### 📈 Business Intelligence & Data Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-0A66C2?style=for-the-badge)
+![KPI Development](https://img.shields.io/badge/KPI_Development-1E88E5?style=for-the-badge)
+
+---
+
+### 🌐 Frontend Technologies
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -74,7 +101,7 @@
 
 ---
 
-### 🛠 Developer Tools & Platforms
+### ⚙️ Developer Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -85,37 +112,3 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
----
-
-### ☁ Cloud & CI/CD
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
----
-
-0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-
-## 📊 Analytics & Data
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-## ⚙️ Engineering & Workflow
-
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-6A1B9A?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
-## 📈 Business & Performance
-
-![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![KPI Development](https://img.shields.io/badge/KPI_Development-1E88E5?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
