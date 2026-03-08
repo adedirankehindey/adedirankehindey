@@ -12,29 +12,6 @@
 </p>
 ---
 
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=100&color=36BCF7&width=700&lines=C%2B%2B;Python;PHP;JavaScript;TypeScript;HTML;CSS;Sass;Bootstrap;CSS;jQuery;MySQL;PostgreSQL;MongoDB;Git;GitHub;Docker" alt="Typing SVG" />
-</p>
-
-## 🛠 Technology Stack
-
-### 💻 Programming Languages
-<p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=100&color=36BCF7&width=750&lines=Python;R;SQL;Bash;JavaScript;TypeScript;Java;PHP;C%2B%2B" />
-</p>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
 
 
 ## 🛠 Technology Stack
