@@ -1,6 +1,4 @@
-
-## 🛠Tech Stack
-
+## 🛠
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=100&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;Business+Intelligence+Developer;Power+BI+%7C+Tableau+%7C+SQL+%7C+Python;ETL+Pipelines+%7C+REST+APIs+%7C+A%2FB+Testing;KPI+Development+%7C+Analytics+%7C+Dashboards" alt="Typing SVG" />
@@ -17,8 +15,8 @@
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-<img src="https://img.shields.io/badge/SQL-Data%20Querying-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-Data%20Analysis-green?style=for-the-badge"/>
+![SQL](https://img.shields.io/badge/SQL-Data%20Querying-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-green?style=for-the-badge)
 
 <br>
 
@@ -27,8 +25,8 @@
 ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-6A1B9A?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-<img src="https://img.shields.io/badge/Excel-Advanced%20Analytics-darkgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google%20Analytics-Marketing%20Insights-purple?style=for-the-badge"/>
+![Excel](https://img.shields.io/badge/Excel-Advanced%20Analytics-darkgreen?style=for-the-badge)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-Marketing%20Insights-purple?style=for-the-badge)
 
 <br>
 
@@ -37,8 +35,8 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-0A66C2?style=for-the-badge)
 ![KPI Development](https://img.shields.io/badge/KPI_Development-1E88E5?style=for-the-badge)
-<img src="https://img.shields.io/badge/PowerBI-Data%20Visualization-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tableau-Dashboarding-orange?style=for-the-badge"/>
+![Power BI](https://img.shields.io/badge/PowerBI-Data%20Visualization-yellow?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboarding-orange?style=for-the-badge)
 
 <br>
 
@@ -82,5 +80,69 @@
 
 
 </div>
+
+</div>
+
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+
+## 📣 Marketing Analytics & Digital Marketing Stack
+
+<div align="center">
+
+### 📊 Marketing Analytics & Data Tracking
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics%204-Web%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-Tag%20Management-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Marketing%20Dashboards-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Marketing Attribution](https://img.shields.io/badge/Marketing%20Attribution-Channel%20Analysis-blue?style=for-the-badge)
+![Customer LTV](https://img.shields.io/badge/Customer%20LTV-Lifetime%20Value-purple?style=for-the-badge)
+
+<br>
+
+### 📈 Business Intelligence & Marketing Reporting
+![Power BI](https://img.shields.io/badge/Power%20BI-Marketing%20Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-Marketing%20Insights-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![KPI Development](https://img.shields.io/badge/KPI%20Development-Performance%20Metrics-blue?style=for-the-badge)
+![Marketing Performance](https://img.shields.io/badge/Marketing%20Performance-ROI%20Analysis-green?style=for-the-badge)
+
+<br>
+
+### 🔬 Experimentation & Optimization
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-Experimentation-orange?style=for-the-badge)
+![Conversion Rate Optimization](https://img.shields.io/badge/CRO-Conversion%20Optimization-red?style=for-the-badge)
+![Growth Analytics](https://img.shields.io/badge/Growth%20Analytics-User%20Acquisition-purple?style=for-the-badge)
+![Marketing Mix Modeling](https://img.shields.io/badge/Marketing%20Mix%20Modeling-MMM-blue?style=for-the-badge)
+
+<br>
+
+### 💰 Paid Advertising & Acquisition Channels
+![Google Ads](https://img.shields.io/badge/Google%20Ads-PPC%20Advertising-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-Facebook%20%26%20Instagram-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![LinkedIn Ads](https://img.shields.io/badge/LinkedIn%20Ads-B2B%20Advertising-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Programmatic Ads](https://img.shields.io/badge/Programmatic%20Advertising-Automated%20Media-purple?style=for-the-badge)
+
+<br>
+
+### 🔍 SEO & Organic Growth
+![SEO](https://img.shields.io/badge/SEO-Search%20Optimization-4285F4?style=for-the-badge)
+![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-Search%20Performance-458CF5?style=for-the-badge&logo=google)
+![Ahrefs](https://img.shields.io/badge/Ahrefs-SEO%20Research-FF8800?style=for-the-badge)
+![SEMrush](https://img.shields.io/badge/SEMrush-Keyword%20Research-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
+
+<br>
+
+### 🧠 Marketing Data Engineering
+![BigQuery](https://img.shields.io/badge/BigQuery-Marketing%20Data%20Warehouse-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-Cloud%20Data%20Warehouse-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Segment](https://img.shields.io/badge/Segment-Customer%20Data%20Platform-black?style=for-the-badge)
+![Amplitude](https://img.shields.io/badge/Amplitude-Product%20Analytics-purple?style=for-the-badge)
+
+<br>
+
+### 📧 CRM & Marketing Automation
+![HubSpot](https://img.shields.io/badge/HubSpot-Marketing%20Automation-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-Email%20Marketing-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)
+![CRM](https://img.shields.io/badge/CRM-Customer%20Management-blue?style=for-the-badge)
+![Lead Generation](https://img.shields.io/badge/Lead%20Generation-Marketing%20Funnels-green?style=for-the-badge)
 
 </div>
