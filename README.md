@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=80&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;Power+BI+%7C+Tableau+%7C+SQL+%7C+Python+%7C+Excel+%7C+A/B+Testing+%7C+Power+BI+%7C+Tableau+%7C+MySQL+%7C+PostgreSQL;ETL+Pipelines+%7C+REST+APIs+%7C+A%2FB+Testing;KPI+Development+%7C+Analytics+%7C+Dashboards;IT+Support+Specialist;Public+Health+Advocate;Digital+Marketing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=80&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;Power+BI+%7C+Tableau+%7C+MySQL+%7C+Python+%7C+Excel+%7C+PostgreSQL;ETL+Pipelines+%7C+REST+APIs+%7C+A%2FB+Testing;KPI+Development+%7C+Analytics+%7C+Dashboards;IT+Support+Specialist;Public+Health+Advocate;Digital+Marketing" alt="Typing SVG" />
 
   
   
