@@ -5,7 +5,7 @@
 
 ## 🛠 Stacks
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=80&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;IT+Support+Specialist;Public+Health+Advocate;Digital+Marketing;Programming+Languages:+%7C+PHP+%7C+Python+%7C+SQL+%7C+Bash+%7C+JavaScript+%7C+TypeScript;Data+Science&+Analytics:+%7C+PyTorch+%7C+ETL Pipelines+%7C+REST APIs+%7C+Excel+%7C+A/B Testing;Frontend+Technologies:+%7C+HTML+%7C+CSS+%7C+Bootstrap;Business+Intelligence+&+Data+Visualization:+%7C+Power+BI+%7C+Tableau;Databases:+%7C+MySQL+%7C+PostgreSQL+%7C+MongoDB;Marketing+Analytics+and+Data+Tracking:+%7C+Google+Analytics+4+%7C+Google+Tag+Manager+%7C+Looker+Studio+%7C+Marketing+Attribution+%7C+Customer+LTV;Experimentation+Optimization:+%7C+A/B Testing+%7C+Conversion+Rate+Optimization+%7C+Growth+Analytics+%7C+Marketing+Mix+Modeling;Paid+Advertising+Acquisition+Channels:+%7C+Google+Ads+%7C+Meta+Ads+%7C+LinkedIn+Ads+%7C+Programmatic+Ads;SEO+Organic+Growth:+%7C+SEO+%7C+Google+Search+Console+%7C+SEMrush+%7C+Ahrefs;CRM+Marketing+Automation:+%7C+HubSpot+%7C+Mailchimp+%7C+CRM+and+Lead+Generation;Developer+Tools+and+Platforms:+%7C+Git+%7C+GitHub+%7C+Terminal+%7C+Docker+%7C+cPanel+%7C+Apache+%7C+Nginx+%7C+NPM" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=80&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;IT+Support+Specialist;Public+Health+Advocate;Digital+Marketing" alt="Typing SVG" />
 
 
 ## 💻 Programming Languages
