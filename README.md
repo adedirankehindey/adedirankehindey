@@ -36,7 +36,10 @@
  ## 🚀 Technologies
 
 ### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=100&color=36BCF7&width=700&lines=C%2B%2B;Python;PHP;JavaScript;TypeScript;HTML;CSS;Sass;Bootstrap;CSS;jQuery;MySQL;PostgreSQL;MongoDB;Git;GitHub;Docker" alt="Typing SVG" />
+</p>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
